@@ -44,7 +44,7 @@ body{
     1px 1px 0 rgb(0, 0, 0);
     position:fixed;
     top:30px;
-    left:70px;
+    left:90px;
 }
 #facebook{
     text-decoration:none;
@@ -58,16 +58,16 @@ body{
     1px 1px 0 rgb(0, 0, 0);
     position:fixed;
     top:30px;
-    left:1550px;
+    left:1600px;
 }
 #logofb{
-    position:sticky;
-    left:1610px;
-    top:0px;
+    position:fixed;
+    left:1530px;
+    top:20px;
 }
 #logoyt{
-    position:sticky;
-    left:160px;
-    top:0px;
+    position:fixed;
+    left:10px;
+    top:16px;
 
 }
